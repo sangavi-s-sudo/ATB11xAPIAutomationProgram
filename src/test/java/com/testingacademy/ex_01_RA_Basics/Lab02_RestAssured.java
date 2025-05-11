@@ -14,7 +14,7 @@ public class Lab02_RestAssured {
 
         // Full URL - https://api.zippopotam.us/IN/560016
         // base URI - https://api.zippopotam.us
-        // bath Path - /IN/560016
+        // base Path - /IN/560016
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the pincode: ");
