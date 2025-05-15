@@ -1,0 +1,3 @@
+ pojo means -> plain old java object classes
+
+ 1. We will map the JSON payload to a class

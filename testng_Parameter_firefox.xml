@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pincode Verification Project">
+    <test verbose="2" preserve-order="true" name="ATB11xAPIAutomationProgram">
+        
+        <parameter name="browser" value="firefox"></parameter>
+<!--         This value can be injected into the code in APITesting019_TestNG_Parameter file by using @parameter annoation there-->
+
+        <classes>
+            <class name="com.testingacademy.ex_05_TestNgExamples.APITesting019_TestNG_Parameter">
+            </class>
+        </classes>
+    </test>
+</suite>
